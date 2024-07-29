@@ -1,6 +1,6 @@
-baseURL = 'https://dylanm5.github.io/'
+baseURL = 'https://geeneglungo.github.io/'
 languageCode = 'en-us'
-title = 'DylanM5'
+title = 'Geene Glungo'
 theme = "smol"
 
 enableRobotsTXT = true
@@ -33,7 +33,7 @@ enableRobotsTXT = true
 # Footer
   [[menu.footer]]
         name = "Github"
-        url = "https://github.com/DylanM5"
+        url = "https://github.com/"
         weight = 1 
 
     [[menu.footer]]
@@ -55,6 +55,6 @@ enableRobotsTXT = true
   home = ["HTML", "RSS"]
 
 [Author]
-    name = "Dylan M"
+    name = "Geene Glungo"
     email = "geeneglungo@proton.me"
 
